@@ -25,6 +25,7 @@ public class Median3
 		return nums;
 	}
 
+
 	public static int FindMedian(int[] nums)
 	{
 		int a = nums[0];
@@ -62,6 +63,7 @@ public class Median3
 			}
 		}
 	}
+
 
 	public static void Main()
 	{
